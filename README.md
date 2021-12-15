@@ -13,7 +13,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/doonpy/doonpy/blob/1.0.0/devcard.svg"
+      src="https://raw.githubusercontent.com/doonpy/doonpy/1.0.0/devcard.svg"
     />
   </a>
 </div>
@@ -24,4 +24,4 @@
 - Developer at [Cybozu Viet Nam](https://www.cybozu.vn)
 - My blog [Poon Nè](https://doonpy.github.io)
 
-![Metrics](https://github.com/doonpy/doonpy/blob/1.0.0/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/doonpy/doonpy/1.0.0/github-metrics.svg)
