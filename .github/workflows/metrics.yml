@@ -41,7 +41,7 @@ jobs:
           commits_authoring: doonpy@users.noreply.github.com            # Surnames or email addresses used to identify your commits
           
           plugin_notable: yes
-          plugin_notable_filter: stars:>500 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
+          # plugin_notable_filter: stars:>500 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
           plugin_notable_from: organization # Only display contributions within organization repositories
           plugin_notable_repositories: yes  # Display repositories name instead of only organization name
           plugin_notable_indepth: yes       # Gather additional informations about contributions
