@@ -268,15 +268,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 52.1kb of code in 144 edited files across 16 commits over last 3 days</small>
+                <small>estimation from 58.7kb of code in 163 edited files across 18 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.30071518462813" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="297.30071518462813" y="0" width="96.80346235304951" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="394.10417753767763" y="0" width="65.89582246232236" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.9704544266067" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="274.9704544266067" y="0" width="102.56968048946295" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="377.54013491606963" y="0" width="82.45986508393035" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -288,24 +288,10 @@
                                 JSON
                             </div>
                             <small>
-                                <div>21 kB</div>
-                                <div>64.63%</div>
+                                <div>22.8 kB</div>
+                                <div>59.78%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TS
-                            </div>
-                            <small>
-                                <div>4.67 kB</div>
-                                <div>14.33%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -315,7 +301,21 @@
                             </div>
                             <small>
                                 <div>6.86 kB</div>
-                                <div>21.04%</div>
+                                <div>17.93%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TS
+                            </div>
+                            <small>
+                                <div>8.53 kB</div>
+                                <div>22.3%</div>
                             </small>
                         </div>
                     </section>
@@ -785,7 +785,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.06m out of 111m users</span>
+                                    <span class="gh">ranked 2.87m out of 111m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -1039,7 +1039,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2023, 04:19:11  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Mar 2023, 05:14:40  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
