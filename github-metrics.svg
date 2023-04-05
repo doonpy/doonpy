@@ -268,16 +268,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 57.9kb of code in 172 edited files across 98 commits over last 7 days</small>
+                <small>estimation from 51.2kb of code in 153 edited files across 96 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.8164924506388" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="277.8164924506388" y="0" width="92.82500067525592" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="370.6414931258947" y="0" width="69.4541231126597" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="440.09561623855444" y="0" width="19.904383761445587" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.3847429519071" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="271.3847429519071" y="0" width="83.10690139048347" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="354.4916443423906" y="0" width="82.0066334991708" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="436.49827784156145" y="0" width="23.501722158438575" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -289,8 +289,8 @@
                                 TS
                             </div>
                             <small>
-                                <div>22.3 kB</div>
-                                <div>60.39%</div>
+                                <div>18.5 kB</div>
+                                <div>59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -302,7 +302,7 @@
                             </div>
                             <small>
                                 <div>5.59 kB</div>
-                                <div>15.1%</div>
+                                <div>17.83%</div>
                             </small>
                         </div>
                     </section>
@@ -315,8 +315,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>7.47 kB</div>
-                                <div>20.18%</div>
+                                <div>5.67 kB</div>
+                                <div>18.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -328,7 +328,7 @@
                             </div>
                             <small>
                                 <div>1.60 kB</div>
-                                <div>4.33%</div>
+                                <div>5.11%</div>
                             </small>
                         </div>
                     </section>
@@ -925,7 +925,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.66m out of 391m repositories</span>
+                                    <span class="gh">ranked 4.69m out of 391m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1052,7 +1052,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Apr 2023, 01:55:22  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Apr 2023, 02:21:10  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
