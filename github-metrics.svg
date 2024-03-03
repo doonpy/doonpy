@@ -268,15 +268,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 784kb of code in 408 edited files across 29 commits over last 7 days</small>
+                <small>estimation from 719kb of code in 362 edited files across 26 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.1876420529626" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="378.1876420529626" y="0" width="45.765368148422226" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="423.9530102013848" y="0" width="36.04698979861515" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.7908557635391" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="382.7908557635391" y="0" width="42.149612797207126" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="424.9404685607463" y="0" width="35.05953143925374" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -288,8 +288,8 @@
                                 YAML
                             </div>
                             <small>
-                                <div>622 kB</div>
-                                <div>82.21%</div>
+                                <div>577 kB</div>
+                                <div>83.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -300,8 +300,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>59.3 kB</div>
-                                <div>7.84%</div>
+                                <div>52.9 kB</div>
+                                <div>7.62%</div>
                             </small>
                         </div>
                     </section>
@@ -314,8 +314,8 @@
                                 TS
                             </div>
                             <small>
-                                <div>75.2 kB</div>
-                                <div>9.95%</div>
+                                <div>63.6 kB</div>
+                                <div>9.16%</div>
                             </small>
                         </div>
                     </section>
@@ -912,7 +912,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.16m out of 87.9m repositories</span>
+                                    <span class="gh">ranked 5.16m out of 88m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1039,7 +1039,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Mar 2024, 05:14:22  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2024, 06:17:57  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
