@@ -268,9 +268,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>No recent push activity found
-                
-                  over last 7 days</small>
+                <small>No recent push activity found</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -909,7 +907,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.19m out of 89.9m repositories</span>
+                                    <span class="gh">ranked 5.19m out of 79.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1000,7 +998,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Mar 2024, 07:14:25  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2024, 08:18:16  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
