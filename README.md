@@ -9,12 +9,14 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/doonpy" target="_blank"><img src="https://api.daily.dev/devcards/v2/f34de1feca7343e69128f3acc60fe3c1.png?type=default&r=vkz" width="256" alt="Poon Nguyen's Dev Card" align="right" /></a>
+  <a href="https://app.daily.dev/doonpy" target="_blank">
+    <img src="https://api.daily.dev/devcards/v2/f34de1feca7343e69128f3acc60fe3c1.png?type=default&r=vkz" width="256" alt="Poon Nguyen's Dev Card" align="right" />
+  </a>
 </div>
 
 <br />
 
-## I am Poon Nguyen
+I am **Poon Nguyen**
 - Developer at [Infina Viet Nam](https://infina.vn)
 - My blog [Poon Nè](https://doonpy.github.io)
 
