@@ -9,13 +9,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=doonpy" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/doonpy/doonpy/1.0.0/devcard.svg"
-    />
-  </a>
+  <a href="https://app.daily.dev/doonpy"><img src="https://api.daily.dev/devcards/v2/f34de1feca7343e69128f3acc60fe3c1.png?type=default&r=vkz" width="256" alt="Poon Nguyen's Dev Card"/></a>
 </div>
 
 <br />
