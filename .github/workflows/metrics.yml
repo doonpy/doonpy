@@ -72,3 +72,23 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Asia/Ho_Chi_Minh
+
+  github-base:
+    runs-on:: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+
+  github-leetcode:
+    runs-on:: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
