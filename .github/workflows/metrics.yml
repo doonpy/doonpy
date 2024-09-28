@@ -74,7 +74,7 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
 
   github-base:
-    runs-on:: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -83,7 +83,7 @@ jobs:
           base: header, activity, community, repositories, metadata
 
   github-leetcode:
-    runs-on:: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
