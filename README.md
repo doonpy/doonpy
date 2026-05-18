@@ -17,7 +17,6 @@
 <br />
 
 I am **Poon Nguyen**
-- Developer at [Infina Viet Nam](https://infina.vn)
 - My blog [The Poon Suy](https://thepoonsuy.life)
 
 ![Metrics](https://raw.githubusercontent.com/doonpy/doonpy/1.0.0/github-metrics.svg)
