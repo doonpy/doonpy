@@ -17,6 +17,6 @@
 <br />
 
 I am **Poon Nguyen**
-- My blog [The Poon Suy](https://thepoonsuy.life)
+- My site is [Poon Nguyen](https://doonpy.github.io)
 
 ![Metrics](https://raw.githubusercontent.com/doonpy/doonpy/1.0.0/github-metrics.svg)
